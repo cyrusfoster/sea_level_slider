@@ -9,4 +9,4 @@ Does not include effects such as:
 
 Note if all ice caps melted, the ocean would only rise by 70m. Waterworld had it wrong... 
 
-[Viewable here](https://cyrusfoster.github.io/sea_level)
+[Viewable here](https://cyrusfoster.github.io/sea_level_slider)
